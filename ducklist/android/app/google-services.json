@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149983993155",
+    "project_id": "ducklist-app",
+    "storage_bucket": "ducklist-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149983993155:android:614178d815324a815b23f6",
+        "android_client_info": {
+          "package_name": "com.example.ducklist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQMMZyF8Nc3hKP96cY-9fSk_L6eIMV8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
